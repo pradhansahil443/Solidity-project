@@ -10,9 +10,9 @@ This program is a simple contract written in Solidity "pragma solidity 0.8.18" ,
 
 ### Installation
 To access the smart contract project, you can clone the repository from the official GitHub page.
-Paste this  in  your terminal
+Paste this  in  your terminal of vscode (Note : use this if only using vs code)
 ```
-git clone
+git clone https://github.com/pradhansahil443/Solidity-project/blob/main/token.sol
 ```
 ### Executing program
 
